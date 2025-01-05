@@ -1,0 +1,38 @@
+
+.all{
+    height: 750px;
+    width: 400px;
+    border: 10px solid tomato;
+    padding: 30px;
+}
+div{
+    background-color: blanchedalmond;
+}
+ h1{
+    background-color: blueviolet;
+    text-align: center;
+    border-radius: 0px 60px 0px 60px;
+ }
+
+button{
+    background-color: limegreen;
+    height:20px;
+    width: 80px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px rgb(0, 121, 130) ;
+}
+form{
+    height: 600px;
+    width: 300px;
+}
+button:hover{
+    background-color:blueviolet;
+
+}
+input[type="text"]{
+    width: 80%;
+}
+input[type="message"]{
+    width: 240px;
+    height: 45px;
+}
